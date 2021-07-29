@@ -10,6 +10,10 @@ Examples shown in code:
 Dependencies:
 - [fivem-safecracker](https://github.com/meta-hub/fivem-safecracker)
 
+Credits to Mr Bluffz for the original resource that was expanded and modified [BluffzJobVaults](https://github.com/MrBluffz/BluffzJobVault).  
+Discord: Mr Bluffz#0001  
+Github: https://github.com/MrBluffz
+
 Documentation for this will remain vague. Updates likely won't be pushed.
 
 Good luck.
